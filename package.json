@@ -1,0 +1,9 @@
+{
+  "name": "semantic-release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
